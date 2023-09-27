@@ -11,7 +11,7 @@
 
 ### Project #1: Color Segmentation
 Results showcase
-<img src="[http://url/image.png](https://github.com/pedrosilva2703/VC-FEUP/assets/78810496/85786ada-dbd1-4b07-bf4d-5cf895a9c911)" style=" width:60px ; height:60px "  >
+<img src="http://url/image.png](https://github.com/pedrosilva2703/VC-FEUP/assets/78810496/85786ada-dbd1-4b07-bf4d-5cf895a9c911" style=" width:200px ; height:200px "  >
 ![2](https://github.com/pedrosilva2703/VC-FEUP/assets/78810496/a32c1a2d-3258-4cc0-9958-b2551c51dee8)
 ![3](https://github.com/pedrosilva2703/VC-FEUP/assets/78810496/b5e1cb2f-c87c-4954-8324-25482d40b438)
 
