@@ -11,9 +11,11 @@
 
 ### Project #1: Color Segmentation
 Results showcase
+
 <img src="https://github.com/pedrosilva2703/VC-FEUP/assets/78810496/85786ada-dbd1-4b07-bf4d-5cf895a9c911" style=" width:500px ; height:300px "  >
-![2](https://github.com/pedrosilva2703/VC-FEUP/assets/78810496/a32c1a2d-3258-4cc0-9958-b2551c51dee8)
-![3](https://github.com/pedrosilva2703/VC-FEUP/assets/78810496/b5e1cb2f-c87c-4954-8324-25482d40b438)
+<img src="https://github.com/pedrosilva2703/VC-FEUP/assets/78810496/a32c1a2d-3258-4cc0-9958-b2551c51dee8" style=" width:500px ; height:300px "  >
+<img src="https://github.com/pedrosilva2703/VC-FEUP/assets/78810496/b5e1cb2f-c87c-4954-8324-25482d40b438" style=" width:500px ; height:300px "  >
+
 
 
 ### Project #2: License plate detection and character identification
